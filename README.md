@@ -93,3 +93,21 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 
 Hi there! I'm **Vedansh Nikum**, studying at PennState University as an MIS major with a passion for data engineering
+
+## Project issues - Following Data with Baraa who uses SQLServer while I use MySQL
+
+-- Cannot do stored procedure with LOAD DATA inside  
+-- MySQL does not support PRINT statements, only SELECT, which behaves differently  
+-- TRY CATCH in MySQL does not work like in SQL Server  
+-- DATETIME2 in SQL Server must be converted to DATETIME in MySQL  
+-- ALTER TABLE / CREATE OR ALTER PROCEDURE syntax differs in MySQL  
+-- ROW_NUMBER() and window functions require MySQL 8+, may fail in older versions  
+-- Converting integer dates (YYYYMMDD) to DATE type requires extra casting  
+-- Messages in SQL Server (PRINT) must be converted to SELECT or comments in MySQL  
+-- Windows line endings (\r\n) need to be handled explicitly in LOAD DATA  
+-- Bronze and Silver layers have different logging approaches due to MySQL limitations  
+-- LEAD() function with INTERVAL subtraction may cause syntax issues in MySQL  
+-- Trimming and normalizing data differs between SQL Server and MySQL  
+-- Issues with gender normalization, sometimes all values return 'n/a'  
+-- Differences in handling NULL and empty string values (NULLIF, IFNULL)  
+-- MySQL stored procedures cannot contain multiple statements with LOAD DATA unless DELIMITER is changed  
