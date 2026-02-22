@@ -95,6 +95,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi there! I'm **Vedansh Nikum**, studying at PennState University as an MIS major with a passion for data engineering
 
 ## ⚠️ Project issues
+**Project Directories replaced with "x" for security**
+
 **Following Data with Baraa tutorial who uses SQLServer while I use MySQL**
 
 -- Cannot do stored procedure with LOAD DATA inside  
