@@ -1,7 +1,7 @@
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+Project made by following through **Data With Baraa**!
 
 ---
 ## 🏗️ Data Architecture
@@ -78,12 +78,6 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
----
-
-## ☕ Stay Connected
-
-.....
-
 ---
 
 ## 🛡️ License
